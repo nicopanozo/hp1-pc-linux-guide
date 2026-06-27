@@ -412,31 +412,6 @@ No Wine configuration, compatibility mode, or dll override can make SecDrv/SafeD
 
 ---
 
-## Where to Share and Legal Notes
-
-### Is this legal to share?
-
-This guide itself — the instructions, commands, and findings — is absolutely fine to share anywhere. Knowledge is not copyrightable.
-
-**Do not include:**
-- Product keys or license serial numbers in your post
-- The ISO or game files themselves
-- Direct download links to game binaries (link to the Internet Archive collection page instead)
-
-Point people to MyAbandonware and the Internet Archive for the actual files.
-
-### Where to share
-
-**GitHub (recommended):** A public repository with this markdown file is an excellent way to share it. It's searchable, versioned, and people can open issues or submit pull requests with improvements. A good repo structure would be just a `README.md` with this content.
-
-**MyAbandonware comments:** The comments section of the game's download page is where many people find help. Posting a summary with a link to your GitHub repo is a great approach — it catches people at exactly the moment they need it.
-
-**Other good places:**
-- **PCGamingWiki** — You can add a note to the Harry Potter 1 page there linking to your guide
-- **Reddit r/linux_gaming** — Active community that helps with Wine/Lutris issues
-- **Lutris forums / GitHub issues** — If there's ever an official Lutris installer script for this game, your findings could help improve it
-- **WineHQ AppDB** — The database of Wine-compatible applications; you can add a report for this game
-
 ### A note for future readers
 
 This guide was written on June 21, 2026. URLs change. Archive.org reorganizes. MyAbandonware may update their file listings. If something doesn't work exactly as described, the **diagnostic tricks in the Key Findings section** (especially the XML listing trick for Archive.org) should help you find the current correct paths. And if you find a better way to do any of this — please share it. That's the whole point.
